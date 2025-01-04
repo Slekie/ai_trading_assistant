@@ -38,8 +38,8 @@ function Navbar() {
                             src={`${process.env.PUBLIC_URL}/images/slick-logo2.jpeg`}
                             alt="Slick logo"
                             style={{
-                                width: '40px',
-                                height: '40px',
+                                width: '30px',
+                                height: '30px',
                               }}
                         />
                         
